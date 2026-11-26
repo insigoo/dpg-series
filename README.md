@@ -15,9 +15,10 @@ DPG Series 是一套面向公益行业的开源基础设施。它把散落在监
 
 | 组件 | 定位 | 当前状态 | 仓库 |
 |---|---|---|---|
-| **SIA** | 标准层 · 社会影响力评估 | v3.2.1；L1/L2 已通过真实项目验证；L3 为草案（1 个端到端案例）；D 线早期 | [insigoo-sia-open](https://github.com/insigoo/insigoo-sia-open) |
+| **SIA** | 标准层 · 社会影响力评估 | v3.4.0；L1/L2 已通过真实项目验证；L3 为草案（1 个端到端案例）；D 线早期 | [insigoo-sia-open](https://github.com/insigoo/insigoo-sia-open) |
 | **SAG Architect** | 知识层 · 组织知识库架构 | 已开源，架构师工具（建库 / 编译 / 诊断） | [insigoo-sag-architect](https://github.com/insigoo/insigoo-sag-architect) |
 | **SIA 100 快检报告** | 基线数据 · 逐项证据与统计脚本 | 100 项目快检数据公开，可一键复算 | [sia-100-report](https://github.com/insigoo/sia-100-report) |
+| **SIA 200 信度检验报告** | 方法学数据 · 信度检验与复算脚本 | 200 项目全量双人重判，一致率 84.15% REVIEW；脱敏报告与聚合数据公开，publishable=false、不排序 | [sia-200-report](https://github.com/insigoo/sia-200-report) |
 | **Data Agent** | 应用层 · 智能数据助手框架 | 准备开源（长期运行于真实业务环境） | 尚未发布，关注本仓更新 |
 | **成熟度自测** | 入口层 · 组织数智化五级自评 | 准备开源 | 尚未发布，关注本仓更新 |
 
@@ -29,6 +30,7 @@ DPG Series 是一套面向公益行业的开源基础设施。它把散落在监
 |---|---|
 | 修改评分锚点、评估方法、L1 / L2 / L3 / D 线标准 | [insigoo-sia-open](https://github.com/insigoo/insigoo-sia-open) |
 | 提交快检复算结果、新快检判例与统计口径 | [sia-100-report](https://github.com/insigoo/sia-100-report) |
+| 提交批量信度检验、双人重判与方法学复现 | [sia-200-report](https://github.com/insigoo/sia-200-report) |
 | 改进知识库治理标准、SAG 架构与编译规则 | [insigoo-sag-architect](https://github.com/insigoo/insigoo-sag-architect) |
 | 参与成熟度自测表、Data Agent 与贡献 skill | 尚未发布，关注本仓更新 |
 
